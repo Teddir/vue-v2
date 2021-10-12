@@ -3,6 +3,7 @@
   <div>
       <Header/>
   </div>
+  <h1>Hello Teddi</h1>
 </div>
 </template>
 
